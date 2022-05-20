@@ -1,0 +1,1 @@
+python3 basic_sequence_optimization.py input.txt

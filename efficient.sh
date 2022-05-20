@@ -1,0 +1,1 @@
+python3 efficient_sequence_optimization.py input.txt
